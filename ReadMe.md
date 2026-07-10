@@ -1,58 +1,66 @@
 # Atlas
+
 ## A Local-First Personal AI Operating System
 
-> A modular, privacy-focused AI system designed to become a personal intelligence platform capable of deep research, automation, knowledge management, software development assistance, and specialized expert-level problem solving.
-
----
-
-# Overview
-
-Atlas is an ambitious long-term project focused on creating a real-world JARVIS-style artificial intelligence system.
+Atlas is an ambitious long-term project focused on creating a modular, privacy-focused AI operating system designed to become a personal intelligence platform.
 
 Atlas is not designed to be a simple chatbot.
 
-The goal is to create a personal AI operating system that acts as an intelligence layer between the user and their digital world. Atlas should be able to understand complex goals, research information deeply, manage knowledge, automate workflows, coordinate specialized AI agents, and assist with technical, creative, and personal projects.
+The goal is to build a system that acts as an intelligence layer between the user and their digital environment — capable of understanding complex objectives, performing deep research, managing knowledge, coordinating specialized AI agents, automating workflows, assisting software development, and supporting advanced technical projects.
 
-The long-term vision is a system that continuously improves, expands its capabilities, and becomes a highly personalized AI partner.
+The long-term vision is a reliable AI partner that continuously expands its capabilities while maintaining user control, privacy, and transparency.
 
 ---
 
-# Vision
+# What Atlas Is
 
-Atlas is designed around the idea of creating a personal AI organization rather than a single assistant.
+Atlas is designed around the concept of a personal AI organization.
 
-Instead of one AI attempting to perform every task, Atlas will use specialized agents that collaborate together.
+Rather than relying on one general-purpose assistant, Atlas will consist of specialized expert agents coordinated through a central intelligence architecture.
 
-Examples of future specialized agents:
+Each agent should have:
 
-- Research Agent
-- Software Engineering Agent
-- Cybersecurity Agent
-- Engineering Agent
-- Finance Intelligence Agent
-- Personal Assistant Agent
-- Project Management Agent
-- Quality Assurance Agent
+* specialized responsibilities
+* controlled permissions
+* dedicated tools
+* relevant memory
+* evaluation systems
+* collaboration capabilities
 
-Each agent should have specialized knowledge, tools, memory, and evaluation methods while working together through the Atlas core.
+Atlas should function similarly to a multidisciplinary expert team working together.
+
+---
+
+# What Atlas Is Not
+
+Atlas is not intended to be:
+
+* a basic chatbot
+* a collection of disconnected AI tools
+* a fully cloud-dependent assistant
+* an uncontrolled autonomous system
+* a replacement for human decision-making
+
+Atlas is designed to augment human capability through intelligent assistance, automation, and knowledge management.
 
 ---
 
 # Core Mission
 
-The mission of Atlas is to create an AI system capable of:
+Atlas aims to create an AI platform capable of:
 
-- Performing deep research on any topic
-- Developing understanding rather than only summarizing information
-- Applying knowledge to real-world problems
-- Managing daily workflows
-- Assisting software development
-- Supporting engineering and technical projects
-- Organizing personal information
-- Automating repetitive tasks
-- Improving through testing and feedback
+* conducting deep technical research
+* developing understanding rather than only summarizing information
+* applying knowledge to real-world problems
+* assisting software development
+* supporting engineering projects
+* organizing personal information
+* automating workflows
+* coordinating specialized agents
+* evaluating its own performance
+* improving through testing and feedback
 
-The goal is to transform AI from a simple question-and-answer tool into a proactive intelligence platform.
+The goal is to transform AI from a reactive question-answer system into a proactive intelligence platform.
 
 ---
 
@@ -60,292 +68,401 @@ The goal is to transform AI from a simple question-and-answer tool into a proact
 
 ## Local-First and Privacy Focused
 
-Atlas should prioritize user ownership, privacy, and control.
+Atlas prioritizes:
 
-Important principles:
+* user ownership
+* privacy
+* transparency
+* security
+* adaptability
 
-- Store personal information securely
-- Use local processing whenever practical
-- Avoid unnecessary dependence on a single AI provider
-- Maintain transparent system behavior
-- Use permissions and security controls for automation
+Core principles:
 
-Cloud-based AI services may be used when beneficial, but Atlas should remain adaptable and independent.
+* Prefer local processing whenever practical.
+* Keep personal information under user control.
+* Avoid unnecessary dependence on a single AI provider.
+* Use secure permission systems for automation.
+* Maintain transparent system behavior.
 
----
-
-## Modular and Expandable Architecture
-
-Atlas should be built as a long-term platform.
-
-The system should allow new capabilities to be added without rebuilding the foundation.
-
-Examples:
-
-- New AI models
-- New agents
-- New tools
-- New integrations
-- New interfaces
-- New automation systems
-
-Every component should be designed with future expansion in mind.
+Cloud-based AI services may be used when beneficial, but Atlas should remain modular and independent.
 
 ---
 
-# Deep Research Intelligence
+# Modular Architecture
 
-One of the primary goals of Atlas is creating an advanced research system.
+Atlas should be built as a long-term expandable platform.
 
-Atlas should not simply search and summarize information.
+The architecture should allow new capabilities to be added without rebuilding the foundation.
 
-It should:
+Future expansion areas include:
 
-1. Understand the objective
-2. Identify required knowledge areas
-3. Gather reliable information
-4. Analyze multiple sources
-5. Compare different approaches
-6. Identify uncertainty and risks
-7. Create conclusions and recommendations
-8. Store useful knowledge for future use
+* additional AI models
+* specialized agents
+* new tools
+* external integrations
+* new interfaces
+* automation systems
+* knowledge sources
 
-The goal is:
-
-Information → Understanding → Application → Improvement
-
-Example:
-
-A user asks:
-
-"How could an advanced wearable AI device be created?"
-
-Atlas should investigate:
-
-- Hardware
-- Software
-- Artificial intelligence systems
-- Sensors
-- Materials
-- Power requirements
-- Manufacturing limitations
-- Current technology
-- Future possibilities
-
-Then create an actionable analysis.
+Every component should be replaceable and loosely coupled.
 
 ---
 
-# Knowledge and Memory System
+# Atlas Core Architecture
 
-Atlas should maintain long-term memory and understanding.
+The Atlas Core acts as the central coordination layer.
 
-The system should remember:
+Responsibilities include:
 
-- Previous projects
-- Research findings
-- Important decisions
-- User preferences
-- Lessons learned
-- Successful solutions
-- Failed attempts
+* understanding user goals
+* planning complex tasks
+* coordinating agents
+* managing system state
+* controlling permissions
+* routing tasks
+* maintaining memory
+* monitoring performance
 
-Memory should not simply store information.
-
-Atlas should organize knowledge so it can retrieve, understand, and apply information in future situations.
+The core should provide a foundation that allows specialized intelligence modules to operate together.
 
 ---
 
-# Agent System
+# Agent Ecosystem
 
-Atlas will use specialized agents that function like a professional team.
+Atlas will eventually contain specialized expert agents.
 
 ## Research Agent
 
 Responsible for:
 
-- Finding information
-- Evaluating sources
-- Creating research reports
-- Building knowledge bases
+* information gathering
+* source evaluation
+* research planning
+* technical analysis
+* knowledge extraction
+* research reports
+
+---
 
 ## Software Engineering Agent
 
 Responsible for:
 
-- Writing code
-- Reviewing architecture
-- Debugging
-- Testing
-- Improving software quality
+* software development
+* architecture analysis
+* debugging
+* testing
+* code improvement
+* development workflows
+
+---
 
 ## Cybersecurity Agent
 
 Responsible for:
 
-- Security reviews
-- Vulnerability detection
-- Privacy improvements
-- System protection
+* security analysis
+* vulnerability assessment
+* privacy improvements
+* defensive security
+* system auditing
+
+---
 
 ## Engineering Agent
 
 Responsible for:
 
-- Technical research
-- Design assistance
-- Engineering analysis
-- Simulation support
+* technical research
+* engineering analysis
+* design assistance
+* simulations
+* complex problem solving
+
+---
 
 ## Finance Intelligence Agent
 
 Responsible for:
 
-- Market research
-- Company analysis
-- Risk evaluation
-- Financial decision support
+* market research
+* company analysis
+* risk evaluation
+* financial information organization
 
-This system is designed to improve decision-making and reduce risk, not guarantee outcomes.
+This system is designed to improve analysis and reduce risk, not guarantee financial outcomes.
 
 ---
 
-# Automation and Personal Assistant Capabilities
+## Personal Assistant Agent
 
-Atlas should eventually assist with daily life and digital management.
+Responsible for:
+
+* calendar management
+* email organization
+* task management
+* reminders
+* file organization
+* productivity workflows
+
+---
+
+# Deep Research Intelligence
+
+A core goal of Atlas is advanced research capability.
+
+Atlas should move beyond simple search and summarization.
+
+A research workflow should include:
+
+1. Understanding the objective.
+2. Identifying required knowledge areas.
+3. Gathering reliable information.
+4. Evaluating sources.
+5. Comparing approaches.
+6. Identifying uncertainty and limitations.
+7. Creating recommendations.
+8. Storing useful knowledge for future use.
+
+The intended workflow:
+
+**Information → Understanding → Application → Improvement**
+
+Example:
+
+A user asks:
+
+> "How could an advanced wearable AI device be created?"
+
+Atlas should analyze:
+
+* hardware
+* software architecture
+* AI systems
+* sensors
+* materials
+* power requirements
+* manufacturing constraints
+* current research
+* future possibilities
+
+Then produce an actionable technical analysis.
+
+---
+
+# Memory and Knowledge System
+
+Atlas should maintain long-term understanding.
+
+Memory should include:
+
+* previous projects
+* research findings
+* technical decisions
+* user preferences
+* successful approaches
+* failed attempts
+* lessons learned
+
+Memory should not simply store information.
+
+Atlas should organize knowledge so it can:
+
+* retrieve information
+* understand relationships
+* apply previous experience
+* improve future decisions
+
+---
+
+# Automation and Integration
+
+Atlas should eventually integrate with digital workflows.
 
 Potential capabilities:
 
-- Calendar management
-- Email organization
-- Task management
-- Notifications
-- File organization
-- Personal dashboards
-- GitHub integration
-- Development workflows
-- API integrations
-- Productivity automation
+* calendar management
+* email organization
+* GitHub integration
+* file management
+* notifications
+* API integrations
+* development workflows
+* productivity automation
 
-The goal is a system that understands context and helps proactively.
+Automation should prioritize:
 
----
-
-# Self-Improvement and Reliability
-
-Atlas should be designed to continuously improve.
-
-The system should include:
-
-- Automated testing
-- Error detection
-- Performance monitoring
-- Agent evaluation
-- Failure analysis
-- Logging
-- Improvement recommendations
-
-When something fails, Atlas should determine:
-
-- What failed
-- Why it failed
-- How to fix it
-- How to prevent the issue in the future
+* user approval
+* security
+* transparency
+* controlled permissions
 
 ---
 
-# Future Engineering and Creation Capabilities
+# Reliability and Self-Improvement
 
-Long-term goals include assisting with advanced projects such as:
+Atlas should continuously evaluate itself.
 
-- Software systems
-- Artificial intelligence projects
-- Hardware development
-- Robotics
-- Engineering designs
-- Research projects
-- Technical experimentation
+Required systems include:
 
-Atlas should eventually function like a multidisciplinary expert team assisting with complex challenges.
+* automated testing
+* error detection
+* performance monitoring
+* agent evaluation
+* logging
+* diagnostics
+* failure analysis
 
----
+When failures occur, Atlas should determine:
 
-# Development Roadmap
-
-## Phase 1: Atlas Foundation
-
-Build the core system:
-
-- Backend foundation
-- Agent management
-- Memory system
-- Database
-- Logging
-- Dashboard
-- AI model integration
+* what failed
+* why it failed
+* affected components
+* possible solutions
+* prevention methods
 
 ---
 
-## Phase 2: Research and Knowledge Intelligence
+# Development Environment
+
+Current development workflow:
+
+* Visual Studio Code
+* GitHub version control
+* Ollama local AI runtime
+
+Atlas is developed locally first.
+
+The initial MVP will be developed on laptop hardware.
+
+Future deployment target:
+
+* dedicated workstation
+* stronger CPU
+* additional RAM
+* dedicated GPU acceleration
+* expanded storage
+
+Architecture decisions should support migration from development hardware to production hardware.
+
+---
+
+# Security Standards
+
+Security is a foundational requirement.
+
+Atlas should include:
+
+* secure credential management
+* least privilege permissions
+* isolated tools
+* audit logging
+* secure automation
+* protection against malicious inputs
+
+Repository requirements:
+
+* secrets stored only in environment variables
+* `.env` files excluded from Git
+* `.env.example` provided
+* comprehensive `.gitignore`
+* no hardcoded credentials
+
+---
+
+# MVP Goals
+
+The first Atlas MVP should establish the foundation:
+
+## Core Platform
+
+* AI model integration
+* agent framework
+* memory foundation
+* database layer
+* logging system
+* testing framework
+* basic dashboard
+
+## Research Foundation
+
+* document processing
+* knowledge storage
+* retrieval capabilities
+* source evaluation
+
+## Expansion Foundation
+
+* tool integration
+* automation framework
+* future specialist agents
+
+---
+
+# Long-Term Roadmap
+
+## Phase 1 — Atlas Foundation
+
+Build:
+
+* core architecture
+* agent management
+* memory system
+* database
+* logging
+* dashboard
+* model integration
+
+## Phase 2 — Research Intelligence
 
 Develop:
 
-- Deep research workflows
-- Document analysis
-- Knowledge storage
-- Retrieval systems
-- Source evaluation
+* deep research workflows
+* document analysis
+* knowledge management
+* retrieval systems
 
----
-
-## Phase 3: Personal AI Assistant
+## Phase 3 — Personal AI Assistant
 
 Develop:
 
-- Calendar integration
-- Email management
-- Task automation
-- Notifications
-- Personal workflows
+* calendar
+* email
+* workflows
+* notifications
+* personal automation
 
----
-
-## Phase 4: Expert Agent Ecosystem
+## Phase 4 — Expert Agent Ecosystem
 
 Develop:
 
-- Coding specialists
-- Cybersecurity specialists
-- Engineering specialists
-- Research specialists
-- Financial analysis specialists
+* coding agents
+* cybersecurity agents
+* engineering agents
+* research agents
+* finance analysis agents
 
----
-
-## Phase 5: Advanced Atlas Intelligence
+## Phase 5 — Advanced Atlas Intelligence
 
 Develop:
 
-- Self-improvement systems
-- Advanced automation
-- Complex project assistance
-- Simulation support
-- Expanded decision-making capabilities
+* advanced automation
+* self-improvement systems
+* complex project assistance
+* simulation support
 
 ---
 
-# Long-Term Goal
+# Long-Term Vision
 
-Atlas is designed to become a personal AI operating system that grows with the user.
+Atlas is designed to become a personal AI operating system capable of:
 
-A system capable of:
+* researching
+* understanding
+* creating
+* automating
+* analyzing
+* learning
+* improving
 
-- Researching
-- Understanding
-- Creating
-- Automating
-- Analyzing
-- Learning
-- Improving
-
-The ultimate goal is to build a reliable, private, and highly capable AI partner that expands human productivity, creativity, and problem-solving ability.
+The ultimate goal is a private, reliable, extensible AI partner that expands human productivity, creativity, and problem-solving ability.
